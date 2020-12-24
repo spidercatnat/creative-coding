@@ -13,3 +13,6 @@
 [submodule "midi-ota"]
 	path = midi-ota
 	url = https://github.com/spidercatnat/midi-ota
+[submodule "spectrogram"]
+	path = spectrogram
+	url = https://github.com/spidercatnat/spectrogram
