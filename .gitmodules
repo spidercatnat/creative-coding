@@ -1,0 +1,12 @@
+[submodule "vedic-square-visual"]
+	path = vedic-square-visual
+	url = https://github.com/spidercatnat/vedic-square-visual
+[submodule "yes-we-canvas"]
+	path = yes-we-canvas
+	url = https://github.com/spidercatnat/yes-we-canvas.git
+[submodule "yes-you-canvas"]
+	path = yes-you-canvas
+	url = https://github.com/spidercatnat/yes-you-canvas.git
+[submodule "fibonacci-moire"]
+	path = fibonacci-moire
+	url = https://github.com/spidercatnat/fibonacci-moire
