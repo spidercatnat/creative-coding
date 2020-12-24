@@ -10,3 +10,6 @@
 [submodule "fibonacci-moire"]
 	path = fibonacci-moire
 	url = https://github.com/spidercatnat/fibonacci-moire
+[submodule "midi-ota"]
+	path = midi-ota
+	url = https://github.com/spidercatnat/midi-ota
